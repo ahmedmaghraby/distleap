@@ -1,4 +1,4 @@
-importScripts("precache-manifest.3280c71f75822c62f522b71145c3ad68.js", "workbox-v4.3.1/workbox-sw.js");
+importScripts("precache-manifest.38643f568875e58c4cd3a903098a9d20.js", "workbox-v4.3.1/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "workbox-v4.3.1"});
 self.__precacheManifest = [].concat(self.__precacheManifest || [])
 workbox.precaching.suppressWarnings()
